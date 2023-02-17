@@ -1,0 +1,33 @@
+
+
+.inputs{
+    margin-top: 100px;
+    height: 150px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.inputs input{
+    width: 500px;
+}
+
+
+.buttons{
+    text-align: center;
+}
+
+.buttons button{
+    width: 210px;
+    margin: 10px;
+}
+
+
+
+.output{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.output input{
+    width: 500px;
+}
